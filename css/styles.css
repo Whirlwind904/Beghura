@@ -1,0 +1,13 @@
+img {
+    border: 10px dotted #7FFFD4;
+  border-radius: 200px;
+  padding: 50px;
+  width: 150px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
